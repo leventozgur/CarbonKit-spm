@@ -28,7 +28,7 @@ You can integrate CarbonKit into your project using Swift Package Manager.
 After adding CarbonKit as a Swift Package, you can import and use its components in your code. Here's a simple example:
 
 ```swift
-import CarbonKit
+import CarbonKit_spm
 
 class ViewController: UIViewController, CarbonTabSwipeNavigationDelegate {
 
